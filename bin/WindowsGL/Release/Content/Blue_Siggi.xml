@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f36d76e2a72d823506efa6df56b68ed0:b65df299f4cf020ccfc1446e952f23c0:0066a6b2ff2384db2713054d41bbd320$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+-->
+<TextureAtlas imagePath="Blue_Siggi.png" width="1653" height="362">
+    <sprite n="siggi_idle_left.png" x="2" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_idle_right.png" x="129" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_jump_left_1.png" x="256" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_jump_left_2.png" x="383" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_jump_left_3.png" x="510" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_jump_right_1.png" x="637" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_jump_right_2.png" x="764" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_jump_right_3.png" x="891" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_1.png" x="1018" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_2.png" x="1145" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_3.png" x="1272" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_4.png" x="1399" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_5.png" x="1526" y="2" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_6.png" x="2" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_7.png" x="129" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_8.png" x="256" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_left_9.png" x="383" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_1.png" x="510" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_2.png" x="637" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_3.png" x="764" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_4.png" x="891" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_5.png" x="1018" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_6.png" x="1145" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_7.png" x="1272" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_8.png" x="1399" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+    <sprite n="siggi_walk_right_9.png" x="1526" y="182" w="125" h="178" pX="0.5" pY="0.5"/>
+</TextureAtlas>

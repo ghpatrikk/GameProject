@@ -1,0 +1,13 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\Content\Map.txt
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\Content\Tiles.png
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\MiniEngine.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\obj\x86\Debug\JBRW 2.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\obj\x86\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\obj\x86\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe.config

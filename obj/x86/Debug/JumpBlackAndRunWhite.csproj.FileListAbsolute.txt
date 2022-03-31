@@ -1,0 +1,67 @@
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.csprojResolveAssemblyReference.cache
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.exe
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MiniEngine.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.Direct3D11.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.XAudio2.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.MediaFoundation.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.DXGI.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Microsoft.Xna.Framework.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MiniEngine.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.Direct3D11.xml
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.xml
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.XAudio2.xml
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.MediaFoundation.xml
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\SharpDX.DXGI.xml
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MiniEngine.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\Map.txt
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\Tiles.png
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\Map.txt
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\Tiles.png
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\obj\x86\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JBRW 2\obj\x86\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MiniEngine.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe.config
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.exe
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\Arial.xnb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.exe
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\JumpBlackAndRunWhite.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\MiniEngine.pdb
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackAndRunWhite\obj\x86\Debug\JumpBlackAndRunWhite.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\Arial.xnb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\BlueBlock.png
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Projekte\JumpBlackAndRunWhite\JumpBlackAndRunWhite\bin\WindowsGL\Debug\Content\RedBlock.png
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\bin\WindowsGL\Debug\Content\BlueBlock.png
+C:\Users\MrHillo\Desktop\SAE\JumpBlackAndRunWhite\JumpBlackandRunWhite\bin\WindowsGL\Debug\Content\RedBlock.png
